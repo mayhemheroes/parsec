@@ -1,0 +1,5 @@
+project: parsec
+target: fuzz-service
+
+cmds:
+  - cmd: /fuzz_service
